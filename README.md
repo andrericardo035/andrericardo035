@@ -4,3 +4,8 @@
 - 🌱 I’m currently learning Data Engineering and Python
 - 💞️ I’m looking to collaborate on open source projects and personal growth as a developer
 - 📫 You can reach me sending a message at andrericardo035@gmail.com
+
+
+
+
+![Github André Ricardo](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
