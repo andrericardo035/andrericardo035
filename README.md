@@ -5,13 +5,13 @@
 - 💞️ I’m looking to collaborate on open source projects and personal growth as a developer
 - 📫 You can reach me sending a message at andrericardo035@gmail.com
 
-<br>
-<br>
-<br>
-<br>
+  <br>
+  <br>
+  <br>
+  <br>
 
 
-[<img src="https://img.shields.io/badge/AndréRicardo-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/andr%C3%A9-ricardo-286110118/)
+  [<img src="https://img.shields.io/badge/AndréRicardo-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/andr%C3%A9-ricardo-286110118/)
 
 
 
