@@ -8,8 +8,7 @@
 
 
 
-https://img.shields.io/badge/AndréRicardo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-
+[<img src="https://img.shields.io/badge/AndréRicardo-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/andr%C3%A9-ricardo-286110118/)
 
 
 
