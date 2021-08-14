@@ -15,8 +15,7 @@
 
 <br>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Thiago-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andr%C3%A9-ricardo-286110118/)](https://www.linkedin.com/in/andr%C3%A9-ricardo-286110118/)
-[![Gmail Badge](https://img.shields.io/badge/-andrericardo035@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:andrericardo035@gmail.com)](mailto:andrericardo035@gmail.com)
-
+[![Linkedin Badge](https://img.shields.io/badge/-AndréRicardo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andr%C3%A9-ricardo-286110118/)](https://www.linkedin.com/in/andr%C3%A9-ricardo-286110118/)
+[![Gmail Badge](https://img.shields.io/badge/-tgmarinho@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tgmarinho@gmail.com)](mailto:tgmarinho@gmail.com)
 
 
